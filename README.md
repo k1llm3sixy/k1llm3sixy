@@ -21,27 +21,27 @@ I am proficient in <b>Git</b> and <b>GitHub</b> for version control
 
 ## 💻 Tech Stack | Стек
 
-### 🖥 IDE и инструменты разработки
+### 🖥 IDE & Development Tools | IDE и инструменты разработки
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 💾 Языки и базы данных
+### 💾 Programming Languages & Databases | Языки и базы данных
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### ☁️ Сервисы и технологии
+### ☁️ Services & Technologies | Сервисы и технологии
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### 🎨 Дизайн и графика
+### 🎨 Design & Graphics | Дизайн и графика
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🎮 Геймдев и моддинг
+### 🎮 Game Dev & Modding | Геймдев и моддинг
 ![Minecraft](https://img.shields.io/badge/Minecraft-%232ebd59?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Minecraft env](https://img.shields.io/badge/environment-client%2C%20opt%20server-536a9e?style=flat-square)
 ![Mod loader](https://img.shields.io/badge/mod%20loader-fabric-d64541?style=flat-square)
