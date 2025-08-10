@@ -1,10 +1,10 @@
 <h1 align="center">💫 About Me | Обо мне</h1>
 
 <p align="center">
-Я начинающий разработчик с опытом работы в мобильной разработке на <b>Kotlin</b> и <b>Android Studio</b>, а также создании модов для <b>Minecraft</b> с использованием Fabric API.  
-Обладаю навыками работы с <b>Java</b> и <b>MySQL</b> для создания серверных и клиентских приложений.  
-Использую современные инструменты и технологии, включая <b>Firebase</b> для облачных решений, а также графические редакторы для разработки интерфейсов.  
-Владею <b>Git</b> и <b>GitHub</b> для управления версиями.
+I am a beginner developer with experience in mobile development using <b>Kotlin</b> and <b>Android Studio</b>, as well as creating mods for <b>Minecraft</b> using the Fabric API.
+I have skills in <b>Java</b> and <b>MySQL</b> for building server-side and client-side applications.
+I use modern tools and technologies, including <b>Firebase</b> for cloud solutions, as well as graphic editors for interface and visual design.
+I am proficient in <b>Git</b> and <b>GitHub</b> for version control
 </p>
 
 ---
